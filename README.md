@@ -19,7 +19,7 @@
 [linkedin-icon]: https://skillicons.dev/icons?i=linkedin
 [github-icon]: https://skillicons.dev/icons?i=github
 [linkedin-url]: www.linkedin.com/in/keerthana-yellapragada
-[github-url]: [https://github.com/jameswonlee](https://github.com/Keerthana-Yellapragada)
+[github-url]: https://github.com/Keerthana-Yellapragada
 
 
 ## Skills:
