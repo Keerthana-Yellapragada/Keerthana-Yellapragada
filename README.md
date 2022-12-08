@@ -7,8 +7,8 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 
-## ⚡ What am I Passionate About?  Healthcare tech & development!
-👯 I’m looking to collaborate on medical + dental software development
+## ⚡ What am I Passionate About?  Healthcare technologies & their software development!
+
 
 
 ## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
