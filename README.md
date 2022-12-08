@@ -10,12 +10,14 @@
 ## ⚡ What am I Passionate About?  Healthcare tech & development!
 👯 I’m looking to collaborate on medical + dental software development
 
-📫 How to reach me: 
 
-Linkedin: www.linkedin.com/in/keerthana-yellapragada
+## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
 
-Github: https://github.com/Keerthana-Yellapragada
-
+<!-- Images / Links -->
+[linkedin-icon]: https://skillicons.dev/icons?i=linkedin
+[github-icon]: https://skillicons.dev/icons?i=github
+[linkedin-url]: www.linkedin.com/in/keerthana-yellapragada
+[github-url]: [https://github.com/jameswonlee](https://github.com/Keerthana-Yellapragada)
 
  
 ## Skills:
@@ -24,6 +26,7 @@ Github: https://github.com/Keerthana-Yellapragada
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -38,6 +41,9 @@ Github: https://github.com/Keerthana-Yellapragada
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Yellapragada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,7 +56,6 @@ Github: https://github.com/Keerthana-Yellapragada
 
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
-
 
 
 <!--
