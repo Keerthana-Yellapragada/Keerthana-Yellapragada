@@ -11,7 +11,6 @@
 ## ⚡ What am I Passionate About?  Healthcare tech & development!
 
 
-
 ## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
 
 <!-- Images / Links -->
@@ -20,15 +19,6 @@
 [linkedin-url]: www.linkedin.com/in/keerthana-yellapragada
 [github-url]: [https://github.com/jameswonlee](https://github.com/Keerthana-Yellapragada)
 
-## Websites I've cloned:
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-### Keerbnb:  https://keerthana-final-airbnb-project.herokuapp.com/
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-### WellnessPage: https://wellnesspage.onrender.com
-
-![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white)
-### Codebunny: https://codebunny.onrender.com
 
 ## Skills:
 
@@ -54,6 +44,17 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+
+
+## Websites I've cloned:
+![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+### Keerbnb:  https://keerthana-final-airbnb-project.herokuapp.com/
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+### WellnessPage: https://wellnesspage.onrender.com
+
+![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white)
+### Codebunny: https://codebunny.onrender.com
 
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Yellapragada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
