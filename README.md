@@ -49,14 +49,12 @@
 
 
 ## Websites I've cloned:
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-### Keerbnb:  https://keerthana-final-airbnb-project.herokuapp.com/
+![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)  Keerbnb: [Click here to visit the live site](https://keerthana-final-airbnb-project.herokuapp.com/)
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-### WellnessPage: https://wellnesspage.onrender.com
 
-![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white)
-### Codebunny: https://codebunny.onrender.com
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  WellnessPage: [Click here to visit the live site](https://wellnesspage.onrender.com)
+
+![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white) Codebunny: [Click here to visit the live site](https://codebunny.onrender.com )
 
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Yellapragada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
