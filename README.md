@@ -1,5 +1,9 @@
 ### Hi there 👋
+### ⚡ Fun fact: I have been a general dentist for a decade now!
 
+![Profile views](https://gpvc.arturio.dev/Keerthana
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keerthana-Yellapragada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Keerthana-Yellapragada/Keerthana-Yellapragada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
