@@ -7,7 +7,7 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 
-## ⚡ What am I Passionate About?  Healthcare technologies & their software development!
+## ⚡ What am I Passionate About?  Healthcare tech & development!
 
 
 
