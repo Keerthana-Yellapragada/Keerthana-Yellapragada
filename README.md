@@ -8,7 +8,9 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 
-## ⚡ What am I Passionate About?  Healthcare tech & development!
+## ⚡ What am I Passionate About?  Healthcare tech & development! 
+
+[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 
 
 ## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
@@ -65,8 +67,6 @@
 
 
 
-
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 
 
 <!--
