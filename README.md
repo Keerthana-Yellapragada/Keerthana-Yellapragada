@@ -14,6 +14,9 @@
 
 
 ## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
+www.linkedin.com/in/keerthana-yellapragada
+
+https://github.com/Keerthana-Yellapragada
 
 <!-- Images / Links -->
 [linkedin-icon]: https://skillicons.dev/icons?i=linkedin
