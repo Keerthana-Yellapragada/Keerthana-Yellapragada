@@ -19,7 +19,11 @@
 [linkedin-url]: www.linkedin.com/in/keerthana-yellapragada
 [github-url]: [https://github.com/jameswonlee](https://github.com/Keerthana-Yellapragada)
 
- 
+## Websites I've cloned:
+![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white)
+
 ## Skills:
 
 ### Frameworks, Platforms & Libraries:
