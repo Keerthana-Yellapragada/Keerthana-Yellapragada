@@ -4,7 +4,7 @@
 
 ### 😄 Pronouns: She/Her
 
-## ⚡ Fun facts: I have been a general dentist for a decade now! 🦷👩🏽‍⚕️🪥💉🥼 
+## ⚡ Fun fact: I have been a general dentist for a decade now! 🦷👩🏽‍⚕️🪥💉🥼 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
