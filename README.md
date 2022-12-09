@@ -1,6 +1,6 @@
 <!-- ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
  -->
-# Hi there 👋, I'm Keerthana!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=2000&pause=1000&color=F747D0&vCenter=true&width=1000&height=200&lines=Hi+there%2C+I'm+Keerthana!;I'm+a+software+engineer;Thanks+for+visiting!)](https://git.io/typing-svg)
 
 ### 😄 Pronouns: She/Her
 
@@ -14,17 +14,7 @@
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 
 
-## 📫 How to reach me: [![linked in][github-icon]][github-url] [![linked in][linkedin-icon]][linkedin-url]
-www.linkedin.com/in/keerthana-yellapragada
-
-https://github.com/Keerthana-Yellapragada
-
-<!-- Images / Links -->
-[linkedin-icon]: https://skillicons.dev/icons?i=linkedin
-[github-icon]: https://skillicons.dev/icons?i=github
-[linkedin-url]: www.linkedin.com/in/keerthana-yellapragada
-[github-url]: https://github.com/Keerthana-Yellapragada
-
+## 📫 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keerthana-yellapragada)
 
 ## Skills:
 
