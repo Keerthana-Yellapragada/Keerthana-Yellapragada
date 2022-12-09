@@ -14,7 +14,7 @@
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 
 
-##  📫 How To Reach Me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keerthana-yellapragada)
+##  📫 How To Reach Me: www.linkedin.com/in/keerthana-yellapragada
 
 ## Skills:
 
