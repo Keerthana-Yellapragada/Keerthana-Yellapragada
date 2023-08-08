@@ -7,11 +7,9 @@
 ## ⚡ Fun fact: I am a general dentist with a passion for dance! 🦷👩🏽‍⚕️🪥💉🥼 💃
 <!-- ![ezgif-4-001a7b47a7](https://user-images.githubusercontent.com/85444662/206585960-afe3c49d-d2e6-487d-89cc-5d08519e3cc9.gif) -->
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 ## ⚡ What am I Passionate About?  Healthcare tech & development! 
 
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/Naereen/)
 
 
 ##  📫 How To Reach Me: www.linkedin.com/in/keerthana-yellapragada
