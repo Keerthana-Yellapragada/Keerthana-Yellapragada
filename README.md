@@ -50,11 +50,6 @@
 ![TaskRabbit](https://img.shields.io/badge/TaskRabbit-00C300?style=for-the-badge&logo=line&logoColor=white) Codebunny: [Click here to visit the live site](https://codebunny.onrender.com )
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Yellapragada&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keerthana-Yellapragada&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
