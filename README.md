@@ -4,11 +4,12 @@
 
 ### 😄 Pronouns: She/Her
 
-## ⚡ Fun fact: I am a general dentist with a passion for dance! 🦷👩🏽‍⚕️🪥💉🥼 💃
+## ⚡ Fun fact: I am a general dentist and a professional performing artist 🦷👩🏽‍⚕️🪥💉🥼 💃
 <!-- ![ezgif-4-001a7b47a7](https://user-images.githubusercontent.com/85444662/206585960-afe3c49d-d2e6-487d-89cc-5d08519e3cc9.gif) -->
 
 
 ## ⚡ What am I Passionate About?  Healthcare tech & development! 
+I transitioned from dentistry to software engineering to impact healthcare technology by developing dental and telehealth software. I am passionate about improving patient care using my technical skills. 
 
 
 
